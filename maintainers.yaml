@@ -11,7 +11,6 @@ maintainers:
         members:
           - amityt
           - arkajyotiMukherjee
-          - chandankumar4
           - ksatchit
           - Jasstkn
           - neelanjan00
@@ -28,6 +27,9 @@ maintainers:
           - umamukkara
           - namkyu1999
           - PriteshKiri
+          - SahilKr24
+          - ajeshbaby
+          - hrishavjha
       # Unmanaged teams: teams with "managed: false" are tracked in this
       # file for documentation but are excluded from CNCF resource
       # provisioning (mailing lists, service desk, Copilot seats, etc).
